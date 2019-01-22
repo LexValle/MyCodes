@@ -6,7 +6,7 @@
 * Registro de Modificación           :
 * Nombre del desarrollador                 Fecha                     Descripción
 —---------------------------------------------------------------------------------------------
-* Axel Alexis Valle Arellano            11/Oct/2017                 Versión Inicial
+* Axel Alexis Valle Arellano            11/Oct/2017                  Versión Inicial
 —---------------------------------------------------------------------------------------------
 **********************************************************************************************/
 @isTest
