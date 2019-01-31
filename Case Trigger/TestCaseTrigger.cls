@@ -4,10 +4,8 @@
 * Fecha de creación                  : 11 Octubre 2017
 * Descripción                        : Método de prueba para la revisión del CaseTrigger
 * Registro de Modificación           :
-* Nombre del desarrollador                 Fecha                     Descripción
-—---------------------------------------------------------------------------------------------
-* Axel Alexis Valle Arellano            11/Oct/2017                  Versión Inicial
-—---------------------------------------------------------------------------------------------
+* @author Axel Alexis Valle Arellano
+* @version 1.0.0
 **********************************************************************************************/
 @isTest
 private class TestCaseTrigger

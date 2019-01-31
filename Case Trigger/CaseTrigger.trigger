@@ -5,9 +5,8 @@
 * Descripción                        : Trigger en Casos para hacer modificaciones
 * Registro de Modificación           :
 * Nombre del desarrollador                 Fecha                     Descripción
-—---------------------------------------------------------------------------------------------
-* Axel Alexis Valle Arellano            11/Oct/2017                 Versión Inicial
-—---------------------------------------------------------------------------------------------
+* @author Axel Alexis Valle Arellano
+* @version 1.0.0
 **********************************************************************************************/
 trigger CaseTrigger on Case (after insert)
 {
